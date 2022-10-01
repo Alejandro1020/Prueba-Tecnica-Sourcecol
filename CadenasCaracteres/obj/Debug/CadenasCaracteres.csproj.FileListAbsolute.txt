@@ -1,0 +1,8 @@
+C:\Users\Alejo\Desktop\CadenasCaracteres\obj\Debug\CadenasCaracteres.csproj.AssemblyReference.cache
+C:\Users\Alejo\Desktop\CadenasCaracteres\obj\Debug\CadenasCaracteres.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alejo\Desktop\CadenasCaracteres\obj\Debug\CadenasCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Desktop\CadenasCaracteres\bin\Debug\CadenasCaracteres.exe.config
+C:\Users\Alejo\Desktop\CadenasCaracteres\bin\Debug\CadenasCaracteres.exe
+C:\Users\Alejo\Desktop\CadenasCaracteres\bin\Debug\CadenasCaracteres.pdb
+C:\Users\Alejo\Desktop\CadenasCaracteres\obj\Debug\CadenasCaracteres.exe
+C:\Users\Alejo\Desktop\CadenasCaracteres\obj\Debug\CadenasCaracteres.pdb
