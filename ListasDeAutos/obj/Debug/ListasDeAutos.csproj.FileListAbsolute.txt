@@ -1,0 +1,8 @@
+C:\Users\Alejo\Desktop\ListasDeAutos\bin\Debug\ListasDeAutos.exe.config
+C:\Users\Alejo\Desktop\ListasDeAutos\bin\Debug\ListasDeAutos.exe
+C:\Users\Alejo\Desktop\ListasDeAutos\bin\Debug\ListasDeAutos.pdb
+C:\Users\Alejo\Desktop\ListasDeAutos\obj\Debug\ListasDeAutos.csproj.AssemblyReference.cache
+C:\Users\Alejo\Desktop\ListasDeAutos\obj\Debug\ListasDeAutos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alejo\Desktop\ListasDeAutos\obj\Debug\ListasDeAutos.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Desktop\ListasDeAutos\obj\Debug\ListasDeAutos.exe
+C:\Users\Alejo\Desktop\ListasDeAutos\obj\Debug\ListasDeAutos.pdb
